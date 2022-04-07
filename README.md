@@ -13,7 +13,7 @@ ________________________________________________________________________________
 *Como rodar a aplicação:*
 
 - Eclipse
-- - No repositório do desafio clica-se em code e copia o link disponibilizado. Já no eclipse, clica-se no icone clone "git repository", cola-se o link na aba "url" e clica-se em next/next/finish. Clica-se em File/Import, seleciona a opção git/projects from git/existing local repository/next seleciona-se a opção "use the new project wizard" e finish, depois a tela padrão de um novo projeto do eclipse se abre, então clica-se em java project/next, desmarca-se a opção default location, e seleciona a pasta do git no computador, depois e next e finish e é só rodar a aplicação.
+- - No repositório do desafio clica-se em code e copia o link disponibilizado. Já no eclipse, com o zip do projeto baixado, clica-se em File, Arquivo/Importar, existing projects into workspace, selecione o arquivo (select arquive file) zip, selecione o projeto e finish.
 
 - Netbeans
 - - No repositório do desafio clica-se em code e baixamos o repositório no arquivo .zip. Já no Netbeans, abrimos a opção File/Import Project/From ZIP. Depois, na opção ZIP file, clicamos em Browse, procuramos a pasta onde o arquivo .zip foi baixado, clicamos nele e depois em abrir.
